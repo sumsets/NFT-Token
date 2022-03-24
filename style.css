@@ -1,0 +1,42 @@
+body {
+    width: 375px;
+}
+#head {
+background-image:url('img/Group 31.svg');
+}
+#status-bar {
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 15px 3px;
+}
+
+#status-bar-right{
+    display: flex;
+    flex-wrap: wrap;    
+}
+
+#back-more-bar{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;  
+    padding: 15px 3px;
+}
+
+#wallet-token-bar{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    padding: 15px 3px;
+}
+
+#wallet{
+    display: flex;
+    flex-wrap: wrap;    
+}
+
+#token{
+    display: flex;
+    flex-wrap: wrap;    
+}

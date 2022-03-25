@@ -1,0 +1,50 @@
+body {
+    width: 375px;
+}
+#head-section {
+background-image:url('img/Group 31.svg');
+}
+#status-bar {
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 15px 24px;
+}
+
+#status-bar-right{
+    display: flex;
+    flex-wrap: wrap;    
+}
+
+#back-more-bar{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;  
+    padding: 15px 24px;
+}
+
+#wallet-token-bar{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    padding: 15px 3px;
+}
+
+#wallet{
+    display: flex;
+    flex-wrap: wrap;    
+}
+
+#token{
+    display: flex;
+    flex-wrap: wrap;    
+}
+#profile-section{
+    height: 158px;
+    justify-content: space-between;
+    margin-top: -50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
